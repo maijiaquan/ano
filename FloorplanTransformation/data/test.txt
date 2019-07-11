@@ -1,0 +1,2 @@
+floorplan_image/test/0000.jpg	floorplan_representation/test/0000.txt
+floorplan_image/test/0001.jpg	floorplan_representation/test/0001.txt

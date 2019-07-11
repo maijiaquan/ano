@@ -1,0 +1,6 @@
+27	28	57	50	toilet	1	1
+85	36	95	79	entrance	1	1
+52	135	99	151	entrance	1	1
+73	15	95	29	door	1	1
+28	82	50	104	washing_basin	1	1
+27	12	56	28	bathtub	1	1

@@ -1,0 +1,7 @@
+78	62	96	94	toilet	1	1
+52	10	82	21	entrance	1	1
+59	73	70	93	door	1	1
+31	63	53	93	washing_basin	1	1
+82	9	93	21	cooking_counter	1	1
+41	11	53	23	cooking_counter	1	1
+30	10	40	21	bathtub	1	1

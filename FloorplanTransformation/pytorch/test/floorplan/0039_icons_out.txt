@@ -1,0 +1,5 @@
+45	168	57	188	toilet	1	1
+114	158	123	187	entrance	1	1
+99	173	105	186	door	1	1
+32	142	49	164	washing_basin	1	1
+76	177	93	187	cooking_counter	1	1

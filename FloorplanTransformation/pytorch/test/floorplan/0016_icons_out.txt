@@ -1,0 +1,6 @@
+177	82	198	111	toilet	1	1
+62	141	77	191	entrance	1	1
+176	116	198	132	door	1	1
+130	25	153	46	washing_basin	1	1
+182	38	198	79	cooking_counter	1	1
+62	192	76	208	cooking_counter	1	1

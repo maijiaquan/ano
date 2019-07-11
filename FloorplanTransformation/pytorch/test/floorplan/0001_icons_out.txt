@@ -1,0 +1,8 @@
+126	30	160	50	toilet	1	1
+63	29	80	76	entrance	1	1
+135	83	158	100	door	1	1
+87	28	112	54	washing_basin	1	1
+148	48	160	60	cooking_counter	1	1
+65	77	83	112	cooking_counter	1	1
+93	77	109	94	cooking_counter	1	1
+112	29	122	51	bathtub	1	1

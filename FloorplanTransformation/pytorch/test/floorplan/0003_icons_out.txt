@@ -1,0 +1,5 @@
+170	68	200	89	toilet	1	1
+154	178	168	220	entrance	1	1
+183	26	198	53	door	1	1
+148	24	168	43	washing_basin	1	1
+188	114	200	153	cooking_counter	1	1

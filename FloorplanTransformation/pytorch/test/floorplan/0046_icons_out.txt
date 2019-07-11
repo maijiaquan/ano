@@ -1,0 +1,7 @@
+146	39	162	66	toilet	1	1
+101	39	118	85	entrance	1	1
+148	117	158	135	door	1	1
+217	65	234	87	washing_basin	1	1
+186	39	201	51	cooking_counter	1	1
+210	39	221	51	cooking_counter	1	1
+26	129	34	136	bathtub	1	1

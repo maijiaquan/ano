@@ -1,0 +1,10 @@
+65	15	89	33	toilet	1	1
+65	132	97	141	entrance	1	1
+71	89	84	98	door	1	1
+92	30	108	44	washing_basin	1	1
+65	54	76	67	cooking_counter	1	1
+65	70	76	84	cooking_counter	1	1
+66	103	77	116	cooking_counter	1	1
+66	86	69	100	bathtub	1	1
+120	147	135	152	bathtub	1	1
+123	224	134	229	bathtub	1	1

@@ -1,0 +1,5 @@
+44	110	62	143	toilet	1	1
+126	130	165	143	entrance	1	1
+129	44	140	57	door	1	1
+44	80	61	104	washing_basin	1	1
+86	129	122	142	cooking_counter	1	1

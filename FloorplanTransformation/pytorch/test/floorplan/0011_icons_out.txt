@@ -1,0 +1,2 @@
+84	132	143	147	entrance	1	1
+204	119	229	147	washing_basin	1	1

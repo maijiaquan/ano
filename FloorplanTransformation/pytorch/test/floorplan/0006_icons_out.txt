@@ -1,0 +1,6 @@
+8	42	28	75	toilet	1	1
+81	26	137	41	entrance	1	1
+11	96	24	119	door	1	1
+55	26	77	45	washing_basin	1	1
+33	103	50	121	cooking_counter	1	1
+55	103	73	120	cooking_counter	1	1

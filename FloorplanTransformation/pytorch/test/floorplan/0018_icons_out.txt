@@ -1,0 +1,7 @@
+71	9	97	27	toilet	1	1
+176	81	189	122	entrance	1	1
+74	93	83	110	door	1	1
+101	194	129	217	washing_basin	1	1
+72	52	86	71	cooking_counter	1	1
+90	98	106	110	cooking_counter	1	1
+175	127	188	141	cooking_counter	1	1

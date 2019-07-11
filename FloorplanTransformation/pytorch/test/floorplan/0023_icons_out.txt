@@ -1,0 +1,5 @@
+197	9	221	47	toilet	1	1
+9	8	64	27	entrance	1	1
+98	9	113	34	door	1	1
+178	57	217	84	washing_basin	1	1
+122	9	137	24	cooking_counter	1	1

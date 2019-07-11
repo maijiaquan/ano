@@ -1,0 +1,4 @@
+213	93	233	125	toilet	1	1
+164	60	203	72	entrance	1	1
+170	106	182	124	door	1	1
+214	70	233	91	washing_basin	1	1

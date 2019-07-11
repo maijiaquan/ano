@@ -1,0 +1,12 @@
+62	88	91	107	toilet	1	1
+182	64	196	120	entrance	1	1
+171	32	183	51	door	1	1
+126	24	154	40	washing_basin	1	1
+149	66	162	78	cooking_counter	1	1
+101	88	120	102	cooking_counter	1	1
+97	129	120	140	cooking_counter	1	1
+62	17	73	28	bathtub	1	1
+187	31	196	38	bathtub	1	1
+187	55	196	62	bathtub	1	1
+61	226	73	239	bathtub	1	1
+186	226	197	239	bathtub	1	1

@@ -1,0 +1,8 @@
+186	144	207	179	toilet	1	1
+136	83	170	99	entrance	1	1
+141	158	154	178	door	1	1
+200	120	220	142	washing_basin	1	1
+172	83	187	100	cooking_counter	1	1
+192	83	211	100	cooking_counter	1	1
+213	84	221	95	bathtub	1	1
+211	156	221	179	bathtub	1	1

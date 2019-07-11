@@ -1,0 +1,7 @@
+155	60	171	85	toilet	1	1
+89	66	101	100	entrance	1	1
+92	32	105	55	door	1	1
+110	25	130	44	washing_basin	1	1
+139	25	155	35	cooking_counter	1	1
+158	37	171	49	cooking_counter	1	1
+90	24	107	32	bathtub	1	1

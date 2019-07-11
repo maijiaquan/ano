@@ -1,0 +1,8 @@
+38	196	60	228	toilet	1	1
+114	155	131	204	entrance	1	1
+40	159	54	180	door	1	1
+86	207	112	228	washing_basin	1	1
+116	135	129	151	cooking_counter	1	1
+62	160	82	175	cooking_counter	1	1
+114	209	129	227	cooking_counter	1	1
+37	135	83	155	bathtub	1	1

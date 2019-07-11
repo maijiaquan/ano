@@ -1,0 +1,7 @@
+194	87	212	118	toilet	1	1
+147	15	190	30	entrance	1	1
+203	18	222	32	door	1	1
+224	39	237	58	washing_basin	1	1
+194	61	208	78	cooking_counter	1	1
+224	62	236	82	cooking_counter	1	1
+26	99	50	120	bathtub	1	1

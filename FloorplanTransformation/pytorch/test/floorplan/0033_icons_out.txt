@@ -1,0 +1,4 @@
+101	34	142	62	toilet	1	1
+57	57	74	102	entrance	1	1
+121	75	142	89	door	1	1
+61	35	98	57	washing_basin	1	1

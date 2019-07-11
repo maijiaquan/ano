@@ -1,0 +1,5 @@
+213	106	234	119	toilet	1	1
+131	86	140	118	entrance	1	1
+164	108	174	116	door	1	1
+145	106	161	119	washing_basin	1	1
+188	106	206	116	cooking_counter	1	1
